@@ -1,0 +1,118 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.everylog"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:6:5-81
+11-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:6:22-78
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:7:5-65
+12-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:7:22-62
+13
+14    <uses-feature android:name="android.hardware.camera" />
+14-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:9:5-60
+14-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:9:19-57
+15
+16    <application
+16-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:11:5-39:19
+17        android:allowBackup="true"
+17-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:12:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.8.0] C:\Users\조수진\.gradle\caches\transforms-3\c8e7cf7c7355c2125fae8bf9e06f4c23\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+19        android:dataExtractionRules="@xml/data_extraction_rules"
+19-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:13:9-65
+20        android:debuggable="true"
+21        android:fullBackupContent="@xml/backup_rules"
+21-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:14:9-54
+22        android:icon="@mipmap/ic_launcher"
+22-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:15:9-43
+23        android:label="@string/app_name"
+23-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:16:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:17:9-54
+25        android:supportsRtl="true"
+25-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:18:9-35
+26        android:testOnly="true"
+27        android:theme="@style/Theme.EveryLog" >
+27-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:19:9-46
+28        <activity
+28-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:21:9-23:40
+29            android:name="com.example.everylog.EditProfile"
+29-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:22:13-40
+30            android:exported="false" />
+30-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:23:13-37
+31        <activity
+31-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:24:9-26:40
+32            android:name="com.example.everylog.write_scene"
+32-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:25:13-40
+33            android:exported="false" />
+33-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:26:13-37
+34        <activity
+34-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:27:9-29:40
+35            android:name="com.example.everylog.view_scene"
+35-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:28:13-39
+36            android:exported="false" />
+36-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:29:13-37
+37        <activity
+37-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:30:9-38:20
+38            android:name="com.example.everylog.MainActivity"
+38-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:31:13-41
+39            android:exported="true" >
+39-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:32:13-36
+40            <intent-filter>
+40-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:33:13-37:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:34:17-69
+41-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:34:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:36:17-77
+43-->C:\android-sdk\AndroidStudioProjects\EveryLog\app\src\main\AndroidManifest.xml:36:27-74
+44            </intent-filter>
+45        </activity>
+46
+47        <uses-library
+47-->[androidx.window:window:1.0.0] C:\Users\조수진\.gradle\caches\transforms-3\e5a030ff3c806132cb506da6af6fcd6c\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+48            android:name="androidx.window.extensions"
+48-->[androidx.window:window:1.0.0] C:\Users\조수진\.gradle\caches\transforms-3\e5a030ff3c806132cb506da6af6fcd6c\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+49            android:required="false" />
+49-->[androidx.window:window:1.0.0] C:\Users\조수진\.gradle\caches\transforms-3\e5a030ff3c806132cb506da6af6fcd6c\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+50        <uses-library
+50-->[androidx.window:window:1.0.0] C:\Users\조수진\.gradle\caches\transforms-3\e5a030ff3c806132cb506da6af6fcd6c\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+51            android:name="androidx.window.sidecar"
+51-->[androidx.window:window:1.0.0] C:\Users\조수진\.gradle\caches\transforms-3\e5a030ff3c806132cb506da6af6fcd6c\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+52            android:required="false" />
+52-->[androidx.window:window:1.0.0] C:\Users\조수진\.gradle\caches\transforms-3\e5a030ff3c806132cb506da6af6fcd6c\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+53
+54        <provider
+54-->[androidx.emoji2:emoji2:1.0.0] C:\Users\조수진\.gradle\caches\transforms-3\3348e8ab5e2abb23a006247eaa42dbef\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+55            android:name="androidx.startup.InitializationProvider"
+55-->[androidx.emoji2:emoji2:1.0.0] C:\Users\조수진\.gradle\caches\transforms-3\3348e8ab5e2abb23a006247eaa42dbef\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+56            android:authorities="com.example.everylog.androidx-startup"
+56-->[androidx.emoji2:emoji2:1.0.0] C:\Users\조수진\.gradle\caches\transforms-3\3348e8ab5e2abb23a006247eaa42dbef\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+57            android:exported="false" >
+57-->[androidx.emoji2:emoji2:1.0.0] C:\Users\조수진\.gradle\caches\transforms-3\3348e8ab5e2abb23a006247eaa42dbef\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+58            <meta-data
+58-->[androidx.emoji2:emoji2:1.0.0] C:\Users\조수진\.gradle\caches\transforms-3\3348e8ab5e2abb23a006247eaa42dbef\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+59                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+59-->[androidx.emoji2:emoji2:1.0.0] C:\Users\조수진\.gradle\caches\transforms-3\3348e8ab5e2abb23a006247eaa42dbef\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+60                android:value="androidx.startup" />
+60-->[androidx.emoji2:emoji2:1.0.0] C:\Users\조수진\.gradle\caches\transforms-3\3348e8ab5e2abb23a006247eaa42dbef\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+61            <meta-data
+61-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\조수진\.gradle\caches\transforms-3\1a1a2041f739d9cae13e9a62b01903b8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+62                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+62-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\조수진\.gradle\caches\transforms-3\1a1a2041f739d9cae13e9a62b01903b8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+63                android:value="androidx.startup" />
+63-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\조수진\.gradle\caches\transforms-3\1a1a2041f739d9cae13e9a62b01903b8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+64        </provider>
+65    </application>
+66
+67</manifest>

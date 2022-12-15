@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\조수진\\.gradle\\daemon\\7.3.3\\com.example.everylog.app-mergeDebugResources-46:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\조수진\\.gradle\\daemon\\7.3.3\\com.example.everylog.app-main-49:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\조수진\\.gradle\\daemon\\7.3.3\\com.example.everylog.app-mergeDebugResources-46:\\layout\\fragment_review.xml",
+        "source": "C:\\Users\\조수진\\.gradle\\daemon\\7.3.3\\com.example.everylog.app-main-49:\\layout\\fragment_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\조수진\\.gradle\\daemon\\7.3.3\\com.example.everylog.app-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\조수진\\.gradle\\daemon\\7.3.3\\com.example.everylog.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\조수진\\.gradle\\daemon\\7.3.3\\com.example.everylog.app-mergeDebugResources-46:\\layout\\activity_drop_down_review.xml",
+        "source": "C:\\Users\\조수진\\.gradle\\daemon\\7.3.3\\com.example.everylog.app-main-49:\\layout\\activity_drop_down_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\조수진\\.gradle\\daemon\\7.3.3\\com.example.everylog.app-mergeDebugResources-46:\\layout\\activity_edit_profile.xml",
+        "source": "C:\\Users\\조수진\\.gradle\\daemon\\7.3.3\\com.example.everylog.app-main-49:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\조수진\\.gradle\\daemon\\7.3.3\\com.example.everylog.app-mergeDebugResources-46:\\layout\\activity_view_scene.xml",
+        "source": "C:\\Users\\조수진\\.gradle\\daemon\\7.3.3\\com.example.everylog.app-main-49:\\layout\\activity_view_scene.xml"
+    },
+    {
+        "merged": "com.example.everylog.app-mergeDebugResources-46:/layout/content_activityshow.xml",
+        "source": "com.example.everylog.app-main-49:/layout/content_activityshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\조수진\\.gradle\\daemon\\7.3.3\\com.example.everylog.app-mergeDebugResources-46:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\조수진\\.gradle\\daemon\\7.3.3\\com.example.everylog.app-main-49:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\조수진\\.gradle\\daemon\\7.3.3\\com.example.everylog.app-mergeDebugResources-46:\\layout\\activity_write_scene.xml",
+        "source": "C:\\Users\\조수진\\.gradle\\daemon\\7.3.3\\com.example.everylog.app-main-49:\\layout\\activity_write_scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\조수진\\.gradle\\daemon\\7.3.3\\com.example.everylog.app-mergeDebugResources-46:\\layout\\content_show.xml",
+        "source": "C:\\Users\\조수진\\.gradle\\daemon\\7.3.3\\com.example.everylog.app-main-49:\\layout\\content_show.xml"
+    }
+]
