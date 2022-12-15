@@ -15,8 +15,7 @@ class DropDown_review : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
-
-        //안녕하세요
+        
         //스피너 리스트 만드는 코드
         var data = listOf("일기", "리뷰", "여행", "공부")
         var adapter = ArrayAdapter<String>(this, R.layout.simple_list_item_1, data)
