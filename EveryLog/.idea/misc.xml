@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/drawable/activity_view.xml" value="0.19" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/drawable/btn_round.xml" value="0.1685" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/drawable/btn_yellow.xml" value="0.18" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/drawable/empty.xml" value="0.214" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/drawable/hashtag.xml" value="0.1895" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.1685" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/drawable/popup.xml" value="0.196" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/drawable/progressbar.xml" value="0.1505" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/drawable/rating_bar.xml" value="0.1865" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/drawable/round.xml" value="0.1685" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/drawable/round_nostroke.xml" value="0.1685" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/drawable/spinner.xml" value="0.2195" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/drawable/writescreen_bottom.xml" value="0.18" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/drawable/writescreen_btn.xml" value="0.18" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/drawable/writescreen_middle.xml" value="0.18" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/drawable/writescreen_thumbnail.xml" value="0.18" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/drawable/writescreen_top.xml" value="0.18" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/font/gangwon_font.xml" value="0.2838541666666667" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/layout/activity_drop_down_review.xml" value="0.25364583333333335" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/layout/activity_edit_profile.xml" value="0.264" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/layout/activity_example.xml" value="0.25364583333333335" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/layout/activity_view.xml" value="0.25364583333333335" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/layout/activity_view_scene.xml" value="0.25364583333333335" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/layout/activity_view_scene_f.xml" value="0.25364583333333335" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/layout/activity_write_scene.xml" value="0.264" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/layout/activity_write_scene_f.xml" value="0.25364583333333335" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/layout/content_activityshow.xml" value="0.14947916666666666" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/layout/content_show.xml" value="0.14947916666666666" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/layout/dropdown_view.xml" value="0.25" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/layout/empty.xml" value="0.25364583333333335" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/layout/ex.xml" value="0.25364583333333335" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/layout/ex1.xml" value="0.25364583333333335" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/layout/fragment_review.xml" value="0.25364583333333335" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/layout/hashtag.xml" value="0.2526041666666667" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/layout/study_writescreen.xml" value="0.25364583333333335" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/layout/view_scene.xml" value="0.264" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/layout/write_scene.xml" value="0.264" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/layout/write_scene2.xml" value="0.24895833333333334" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/EveryLog/app/src/main/res/menu/popup.xml" value="0.25364583333333335" />
+        <entry key="..\:/android-sdk/platforms/android-32/data/res/layout/auto_complete_list.xml" value="0.25364583333333335" />
+        <entry key="..\:/android-sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
