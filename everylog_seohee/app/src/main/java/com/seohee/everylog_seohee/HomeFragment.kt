@@ -17,6 +17,7 @@ class HomeFragment : Fragment() {
         // 뷰바인딩 설정
         val binding = FragmentHomeBinding.inflate(inflater, container, false)
 
+        // 버튼 클릭하면
         binding.writeBtn.setOnClickListener {
             val intent = Intent(context, DiaryWrite::class.java)
             startActivity(intent)
