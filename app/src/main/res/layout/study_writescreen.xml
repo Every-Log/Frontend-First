@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#fffbe2"
-    tools:context=".activity.MainActivity">
+    tools:context=".activity.StudyWriteActivity">
 
     <LinearLayout
         android:id="@+id/studyWriteLayout"
@@ -100,30 +100,47 @@
                     android:textColorHint="#bcbcbc"
                     android:textSize="24dp" />
 
-                <LinearLayout
+                <androidx.recyclerview.widget.RecyclerView
                     android:layout_width="250dp"
                     android:layout_height="200dp"
                     android:layout_gravity="center"
-                    android:orientation="vertical">
+                    android:orientation="vertical"
+                    android:id="@+id/imgView"
+                    app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager">
 
                     <androidx.viewpager2.widget.ViewPager2
-                        android:id="@+id/viewpager"
+                        android:id="@+id/study_write_viewpager"
                         android:layout_width="match_parent"
-                        android:layout_height="160dp"
+                        android:layout_height="180dp"
+                        android:layout_alignParentTop="true"
                         android:layout_gravity="center"
                         android:background="@drawable/writescreen_thumbnail"
+                        android:clickable="true"
                         android:clipChildren="false"
-                        android:clipToPadding="false" />
+                        android:clipToPadding="false">
+
+                    </androidx.viewpager2.widget.ViewPager2>
 
                     <me.relex.circleindicator.CircleIndicator3
                         android:id="@+id/indicator"
                         android:layout_width="match_parent"
-                        android:layout_height="40dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentBottom="true"
                         android:layout_gravity="bottom"
                         app:ci_drawable="@drawable/gray_indicator" />
+                </androidx.recyclerview.widget.RecyclerView>
 
-
-                </LinearLayout>
+                <Button
+                    android:layout_width="120dp"
+                    android:layout_height="30dp"
+                    android:text="사진 추가하기"
+                    android:fontFamily="@font/gangwon"
+                    android:textSize="20dp"
+                    android:background="@drawable/btn_yellow"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="0dp"
+                    android:layout_marginBottom="15dp"
+                    android:id="@+id/addImgBtn" />
 
                 <RelativeLayout
                     android:layout_width="250dp"
@@ -166,6 +183,8 @@
 
                 </RelativeLayout>
 
+
+
                 <EditText
                     android:id="@+id/editTextStudyContent"
                     android:layout_width="250dp"
@@ -196,6 +215,14 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/studyWriteLayout"
         app:layout_constraintBottom_toTopOf="@+id/studyWritesubmitBtn">
+
+        <com.twoiq.hashtagify.CustomEditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/hashtagEditStudy"
+            android:hint="해시태그를 입력하세요"
+            android:fontFamily="@font/gangwon"
+            android:textColorHint="#bcbcbc"/>
 
     </LinearLayout>
 
