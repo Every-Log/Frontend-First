@@ -5,7 +5,7 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.example.everylog.databinding.ActivityMainBinding
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : AppCompatActivity() {  //내정보 페이지 코드
     val PERM_STORAGE = 9
     val PERN_CAMERA = 10
 
@@ -25,8 +25,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
 
+        //로그아웃
         binding.btnLogout.setOnClickListener {
-            //로그아웃
             startActivityForResult(intent2, 99)
         }
 
@@ -35,12 +35,12 @@ class MainActivity : AppCompatActivity() {
             startActivityForResult(intent, 99)
         }
 
-        //진행도 표시 코드(데이터베이스랑 연동 필요)
+        //진행도 표시 코드(데이터베이스랑 연동 필요), 임시로 100으로 설정한거고 글 쓰이는 개수에 따라 setProgress의 percent 달라져야.
         binding.progressBar.setProgress(100)
 
-        //색 바뀌는 코드
-        if(binding.progressBar.progress==100){
-            binding.progressBar.setProgress(0)
+        //에그 색 바뀌는 코드
+        if(binding.progressBar.progress==100){  //progress가 100이면 색 바뀌도록
+            binding.progressBar.setProgress(0)  //바뀌고 나면 다시 0으로 리셋(그러므로 이걸 하고 나서 다시 진행도가 올라갈 수 있도록 해야 함)
             when(pre_color) {
                 "g" -> {
                     binding.EggImg.setImageResource(R.drawable.yellow_grey)

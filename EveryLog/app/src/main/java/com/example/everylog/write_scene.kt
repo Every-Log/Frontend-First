@@ -22,7 +22,8 @@ class write_scene : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
 
-        //완료 버튼 누르면 일단 해시태그만 전달되도록 함 (중복되는 문제 발생, []가 자꾸 같이 껴있음)
+        //완료 버튼 누르면 일단 해시태그만 전달되도록 함
+        //(중복되는 문제 발생:예를 들어 #아이하면 아이가 들어옴.그리고 그 뒤에 #버튼하면 아이 아이 버튼으로 들어옴/ []가 자꾸 같이 껴있음:stringTokenizer 특?))
         binding.reviewWritesubmitBtn.setOnClickListener {
             val st = StringTokenizer(binding.ReviewHashTagEditText.text.toString(),"#")
             var j=st.countTokens()
@@ -50,7 +51,7 @@ class write_scene : AppCompatActivity() {
         startActivityForResult(intent, REQ_GALLERY)
     }
 
-    //갤러리에서 선택 후 호출됨(edit 화면 프사 바뀜)
+    //갤러리에서 선택 후 호출됨(글쓰기에 있는 리뷰사진 바뀜)
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
         super.onActivityResult(requestCode, resultCode, data)
         if (resultCode== RESULT_OK){

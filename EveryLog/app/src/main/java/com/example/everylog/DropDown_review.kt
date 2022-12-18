@@ -15,7 +15,7 @@ class DropDown_review : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
-        
+
         //스피너 리스트 만드는 코드
         var data = listOf("일기", "리뷰", "여행", "공부")
         var adapter = ArrayAdapter<String>(this, R.layout.simple_list_item_1, data)
@@ -41,13 +41,14 @@ class DropDown_review : AppCompatActivity() {
         }
     }
 
+    //프래그먼트 전환 코드(오류 뜸)
     fun setFragment(){
         //1. 사용할 프래그먼트 생성
         val reviewFragment = ReviewFragment()
         //2. 트랜잭션 생성
         val transaction = supportFragmentManager.beginTransaction()
         //3. 트랜잭션을 통해 프래그먼트 삽입
-        //transaction.add(binding.ChangeLayout, reviewFragment)
+        transaction.add(binding.ChangeLayout, reviewFragment)
         transaction.commit()
     }
 }
