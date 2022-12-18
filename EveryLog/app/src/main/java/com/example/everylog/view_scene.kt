@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.example.everylog.databinding.ActivityViewSceneBinding
 
 
-class view_scene : AppCompatActivity() {
+class view_scene : AppCompatActivity() {  //데이터 베이스에 저장한 정보들을 불러오는 코드 작성해야 함
     
     val binding by lazy {ActivityViewSceneBinding.inflate(layoutInflater)}
 

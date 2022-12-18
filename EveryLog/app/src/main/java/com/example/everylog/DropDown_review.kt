@@ -23,7 +23,7 @@ class DropDown_review : AppCompatActivity() {
         binding.spinner.adapter=adapter
 
 
-        //해당 스피너가 클릭되면 해당 프래그먼트로 레이아웃 바뀌는 코드
+        //해당 스피너가 클릭되면 해당 프래그먼트로 레이아웃 바뀌는 코드(다른 사람들과 합칠 부분이긴 함)
         binding.spinner.onItemSelectedListener = object: AdapterView.OnItemSelectedListener{
             override fun onItemSelected(parent: AdapterView<*>?, view: View?, position: Int, id: Long) {
                 /*if(data.get(position)=="리뷰")
@@ -35,13 +35,13 @@ class DropDown_review : AppCompatActivity() {
             }
         }
 
-        //삭제 버튼 누르면
+        //삭제 버튼 누르면 데이터베이스 & 앱에서도 삭제되도록
         binding.btnTrash.setOnClickListener {
 
         }
     }
 
-    //프래그먼트 전환 코드(오류 뜸)
+    //프래그먼트 전환 코드(오류 뜸): 영상과 똑같이 했는데 문제 발생
     fun setFragment(){
         //1. 사용할 프래그먼트 생성
         val reviewFragment = ReviewFragment()
