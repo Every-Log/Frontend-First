@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {  //내정보 페이지 코드
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
 
-        //로그아웃
+        //로그아웃(데이터베이스 필요)
         binding.btnLogout.setOnClickListener {
             startActivityForResult(intent2, 99)
         }
@@ -40,7 +40,7 @@ class MainActivity : AppCompatActivity() {  //내정보 페이지 코드
 
         //에그 색 바뀌는 코드
         if(binding.progressBar.progress==100){  //progress가 100이면 색 바뀌도록
-            binding.progressBar.setProgress(0)  //바뀌고 나면 다시 0으로 리셋(그러므로 이걸 하고 나서 다시 진행도가 올라갈 수 있도록 해야 함)
+            binding.progressBar.setProgress(0)  //바뀌고 나면 다시 0으로 리셋(그러므로 이 코드 이후에 다시 진행도가 올라갈 수 있도록 하는 코드 작성 필요)
             when(pre_color) {
                 "g" -> {
                     binding.EggImg.setImageResource(R.drawable.yellow_grey)

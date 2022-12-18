@@ -34,6 +34,7 @@ class write_scene : AppCompatActivity() {
             binding.editTextReviewContent.setText(arrayList.toString())//제대로 동작하는지 알아보기 위해 ReviewContent에 임시로 써서 확인함
         }
 
+        //리뷰 사진 넣는 경우
         binding.ReviewImageView.setOnClickListener {
             openGallery()
         }

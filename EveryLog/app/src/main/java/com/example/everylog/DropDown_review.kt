@@ -9,14 +9,14 @@ import android.widget.ArrayAdapter
 import com.example.everylog.databinding.ActivityDropDownReviewBinding
 import com.example.everylog.frag.ReviewFragment
 
-class DropDown_review : AppCompatActivity() {
+class DropDown_review : AppCompatActivity() {  //프래그먼트 전환 필요한 파트
     val binding by lazy {ActivityDropDownReviewBinding.inflate(layoutInflater)}
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
 
-        //스피너 리스트 만드는 코드
+        //스피너 리스트 만드는 코드: 이것도 다른 사람들이랑 합치면 되는 부분이긴 한데 일단 만들었음
         var data = listOf("일기", "리뷰", "여행", "공부")
         var adapter = ArrayAdapter<String>(this, R.layout.simple_list_item_1, data)
 
