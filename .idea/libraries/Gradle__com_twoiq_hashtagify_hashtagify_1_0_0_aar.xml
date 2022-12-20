@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twoiq.hashtagify:hashtagify:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c88ba3a3680b2ffd797ae8b659e09136/transformed/hashtagify-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c88ba3a3680b2ffd797ae8b659e09136/transformed/hashtagify-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c88ba3a3680b2ffd797ae8b659e09136/transformed/hashtagify-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twoiq.hashtagify/hashtagify/1.0.0/4af75c071762ca99b9c489e7ccbfc8171076d2ec/hashtagify-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.twoiq.hashtagify/hashtagify/1.0.0/1c48dcff7973c2d804a00832716fc4048fc433fc/hashtagify-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
