@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lo\\values-lo.xml",
+            "outputFile": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lo\\values-lo.xml",
             "map": [
                 {
                     "source": "C:\\Users\\여우비\\.gradle\\caches\\transforms-3\\4daf447b28f3200813cd8317cef4ee15\\transformed\\appcompat-1.5.1\\res\\values-lo\\values-lo.xml",
