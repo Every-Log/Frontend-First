@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:2:1-35:12
 MERGED from [androidx.databinding:viewbinding:7.1.2] C:\Users\여우비\.gradle\caches\transforms-3\6ddf2854891938975fbfa48322e2bcd6\transformed\viewbinding-7.1.2\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\여우비\.gradle\caches\transforms-3\1a61542cf836fad43ebe56fb6f3ceb0f\transformed\material-1.7.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\여우비\.gradle\caches\transforms-3\92c6b98093f4d4740952f38ea54d4650\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
@@ -52,25 +52,25 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\여우비\.gradle\caches\transforms-3\bf11d5f709f8b4982d65ae78eb7a0a6a\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\여우비\.gradle\caches\transforms-3\69a4388af68bad3cfd5a877ec530d9c8\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\여우비\.gradle\caches\transforms-3\fa71066934ce7b959416ab07c2d56d3b\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:2:1-35:12
 	package
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:3:5-41
-		INJECTED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml
-		INJECTED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:2:1-35:12
-		INJECTED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:2:1-35:12
-		INJECTED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:5:5-33:19
+ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:5:5-33:19
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\여우비\.gradle\caches\transforms-3\1a61542cf836fad43ebe56fb6f3ceb0f\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\여우비\.gradle\caches\transforms-3\1a61542cf836fad43ebe56fb6f3ceb0f\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\여우비\.gradle\caches\transforms-3\92c6b98093f4d4740952f38ea54d4650\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -88,61 +88,61 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\여우비\.gradle\
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] C:\Users\여우비\.gradle\caches\transforms-3\22cd249c14ccbdbc452d51608e56dc20\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:11:9-53
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:11:9-53
 activity#com.seohee.everylog_seohee.TravelWrite
-ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:12:9-14:40
+ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:12:9-14:40
 	android:exported
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:14:13-37
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:13:13-40
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:13:13-40
 activity#com.seohee.everylog_seohee.TravelRead
-ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:15:9-17:40
+ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:15:9-17:40
 	android:exported
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:17:13-37
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:16:13-39
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:16:13-39
 activity#com.seohee.everylog_seohee.DiaryWrite
-ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:18:9-20:40
+ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:18:9-20:40
 	android:exported
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:20:13-37
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:19:13-39
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:19:13-39
 activity#com.seohee.everylog_seohee.DiaryRead
-ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:21:9-23:40
+ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:21:9-23:40
 	android:exported
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:23:13-37
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:22:13-38
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:22:13-38
 activity#com.seohee.everylog_seohee.NaviActivity
-ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:24:9-32:20
+ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:24:9-32:20
 	android:exported
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:26:13-36
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:26:13-36
 	android:name
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:25:13-41
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:25:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:27:13-31:29
+ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
-ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:28:17-69
+ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:28:25-66
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:30:17-77
+ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml:30:27-74
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml:30:27-74
 uses-sdk
-INJECTED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml
-INJECTED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml
+INJECTED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml
+INJECTED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.1.2] C:\Users\여우비\.gradle\caches\transforms-3\6ddf2854891938975fbfa48322e2bcd6\transformed\viewbinding-7.1.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:viewbinding:7.1.2] C:\Users\여우비\.gradle\caches\transforms-3\6ddf2854891938975fbfa48322e2bcd6\transformed\viewbinding-7.1.2\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\여우비\.gradle\caches\transforms-3\1a61542cf836fad43ebe56fb6f3ceb0f\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
@@ -239,16 +239,16 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\여우비\.gradl
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\여우비\.gradle\caches\transforms-3\69a4388af68bad3cfd5a877ec530d9c8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\여우비\.gradle\caches\transforms-3\fa71066934ce7b959416ab07c2d56d3b\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\여우비\.gradle\caches\transforms-3\fa71066934ce7b959416ab07c2d56d3b\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml
-INJECTED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml
+INJECTED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml
+INJECTED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml
-		INJECTED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml
-		ADDED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml
-		INJECTED from C:\android-sdk\everylog_seohee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml
+		ADDED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\android-sdk\Frontend-First\everylog_seohee\app\src\main\AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\여우비\.gradle\caches\transforms-3\9bf22ea4ac2d06277aba3a52083a97e1\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\여우비\.gradle\caches\transforms-3\2c370404d1bd55cc1ec1618095c75573\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20

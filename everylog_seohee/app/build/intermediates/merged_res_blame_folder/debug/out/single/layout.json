@@ -1,38 +1,38 @@
 [
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_search.xml",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\layout\\fragment_search.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_navi.xml",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\layout\\activity_navi.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_read.xml",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\layout\\fragment_read.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_search.xml",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\layout\\fragment_search.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_travel_write.xml",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\layout\\activity_travel_write.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_travel_write.xml",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\layout\\activity_travel_write.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_diary_write.xml",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\layout\\activity_diary_write.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_my_page.xml",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\layout\\fragment_my_page.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_diary_read.xml",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\layout\\activity_diary_read.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_read.xml",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\layout\\fragment_read.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_travel_read.xml",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\layout\\activity_travel_read.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_diary_read.xml",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\layout\\activity_diary_read.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_navi.xml",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\layout\\activity_navi.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_diary_write.xml",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\layout\\activity_diary_write.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\layout\\fragment_home.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_travel_read.xml",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\layout\\activity_travel_read.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_my_page.xml",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\layout\\fragment_my_page.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\layout\\fragment_home.xml"
     }
 ]

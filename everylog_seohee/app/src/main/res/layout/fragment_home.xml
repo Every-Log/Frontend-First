@@ -62,22 +62,6 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/percent" />
 
-        <Button
-            android:id="@+id/writeBtn"
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:layout_gravity="center"
-            android:layout_marginStart="226dp"
-            android:layout_marginEnd="8dp"
-            android:layout_marginBottom="55dp"
-            android:background="@drawable/btn_circle"
-            android:drawableBottom="@drawable/ic_create"
-            android:paddingBottom="10dp"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.99"
-            app:layout_constraintStart_toStartOf="parent" />
-
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 

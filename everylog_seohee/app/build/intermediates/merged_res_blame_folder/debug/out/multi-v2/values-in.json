@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in\\values-in.xml",
+            "outputFile": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in\\values-in.xml",
             "map": [
                 {
                     "source": "C:\\Users\\여우비\\.gradle\\caches\\transforms-3\\1a61542cf836fad43ebe56fb6f3ceb0f\\transformed\\material-1.7.0\\res\\values-in\\values-in.xml",

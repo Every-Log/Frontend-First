@@ -1,170 +1,170 @@
 [
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_yellow.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\drawable\\btn_yellow.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_menuclick.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\drawable\\menuclick.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_writescreen_middle.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\drawable\\writescreen_middle.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_writescreen_top.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\drawable\\writescreen_top.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_search.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\layout\\fragment_search.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_egg.png.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\drawable-v24\\egg.png"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_read.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\drawable\\ic_read.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_circle.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\drawable\\btn_circle.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_search.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\layout\\fragment_search.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_profile.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\drawable\\ic_profile.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\menu_navi_menu.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\menu\\navi_menu.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\font_font.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\font\\font.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_travel_write.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\layout\\activity_travel_write.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\font_gangwon.ttf.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\font\\gangwon.ttf"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_circle.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\drawable\\btn_circle.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_read.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\layout\\fragment_read.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_gray_indicator.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\drawable\\gray_indicator.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_create.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\drawable\\ic_create.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_diary_read.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\layout\\activity_diary_read.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_read.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\drawable\\ic_read.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_writescreen_btn.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\drawable\\writescreen_btn.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_my_page.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\layout\\fragment_my_page.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_home.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\drawable\\ic_home.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_travel_write.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\layout\\activity_travel_write.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_writescreen_btn_selected.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\drawable\\writescreen_btn_selected.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\menu_navi_menu.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\menu\\navi_menu.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_my_page.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\layout\\fragment_my_page.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_travel_read.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\layout\\activity_travel_read.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_diary_write.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\layout\\activity_diary_write.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_diary_write.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\layout\\activity_diary_write.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\drawable\\ic_search.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_read.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\layout\\fragment_read.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_diary_read.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\layout\\activity_diary_read.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_yellow.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\drawable\\btn_yellow.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_writescreen_thumbnail.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\drawable\\writescreen_thumbnail.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\font_font.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\font\\font.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_gray_indicator.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\drawable\\gray_indicator.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_travel_read.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\layout\\activity_travel_read.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_egg.png.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\drawable-v24\\egg.png"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_create.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\drawable\\ic_create.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_writescreen_btn.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\drawable\\writescreen_btn.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_navi.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\layout\\activity_navi.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\drawable\\ic_search.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_writescreen_thumbnail.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\drawable\\writescreen_thumbnail.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_navi.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\layout\\activity_navi.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_writescreen_btn_selected.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\drawable\\writescreen_btn_selected.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_profile.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\drawable\\ic_profile.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\layout\\fragment_home.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_writescreen_bottom.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\drawable\\writescreen_bottom.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_home.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\drawable\\ic_home.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_menuclick.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\drawable\\menuclick.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_writescreen_middle.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\drawable\\writescreen_middle.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_writescreen_bottom.xml.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\drawable\\writescreen_bottom.xml"
     },
     {
-        "merged": "C:\\android-sdk\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\drawable_writescreen_top.xml.flat",
-        "source": "C:\\android-sdk\\everylog_seohee\\app\\src\\main\\res\\drawable\\writescreen_top.xml"
+        "merged": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\build\\intermediates\\merged_res\\debug\\font_gangwon.ttf.flat",
+        "source": "C:\\android-sdk\\Frontend-First\\everylog_seohee\\app\\src\\main\\res\\font\\gangwon.ttf"
     }
 ]
