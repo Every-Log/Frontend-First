@@ -1,5 +1,6 @@
 package com.egg.everylogg.activity
 
+import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
 import android.util.Log
@@ -34,5 +35,11 @@ class StudyWriteActivity : AppCompatActivity() {
 
         //circle indicator- setViewPager
         binding.indicator.setViewPager(binding.studyWriteViewpager)
+
+
+        //study_listscreen activity로 화면 전환
+        binding.studyWritesubmitBtn.setOnClickListener {
+            startActivity(Intent(this@StudyWriteActivity,StudyListActivity::class.java))
+        }
     }
 }
