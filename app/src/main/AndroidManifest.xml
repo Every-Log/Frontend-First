@@ -29,6 +29,15 @@
             android:exported="false"/>
         <activity android:name=".activity.SearchActivity"
             android:exported="false"/>
+
+        <activity android:name=".activity.EditProfile"
+            android:exported="false"/>
+        <activity android:name=".activity.view_scene"
+            android:exported="false"/>
+        <activity android:name=".activity.write_scene"
+            android:exported="false"/>
+
+
     </application>
 
 </manifest>
