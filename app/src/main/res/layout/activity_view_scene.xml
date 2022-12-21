@@ -49,6 +49,7 @@
                     android:fontFamily="@font/gangwon"
                     android:gravity="center"
                     android:hint="제목"
+                    android:textColorHint="#bcbcbc"
                     android:textSize="24sp" />
 
                 <LinearLayout
@@ -75,6 +76,7 @@
                         android:fontFamily="@font/gangwon"
                         android:gravity="center"
                         android:hint="영화 정보"
+                        android:textColorHint="#bcbcbc"
                         android:maxLines="7"
                         android:textSize="16sp" />
                 </LinearLayout>
@@ -106,7 +108,8 @@
                     android:layout_marginTop="5dp"
                     android:layout_marginRight="5dp"
                     android:fontFamily="@font/gangwon"
-                    android:hint="내용"
+                    android:hint="     내용을 입력하세요."
+                    android:textColorHint="#bcbcbc"
                     android:singleLine="false"
                     android:textSize="20sp" />
 

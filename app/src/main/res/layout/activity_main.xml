@@ -36,6 +36,7 @@
             android:layout_marginTop="24dp"
             android:fontFamily="@font/gangwon"
             android:text="닉네임"
+            android:textColor="@color/gray"
             android:textSize="34sp"
             app:layout_constraintStart_toEndOf="@+id/ProfileImg"
             app:layout_constraintTop_toTopOf="@+id/ProfileImg" />
@@ -48,6 +49,7 @@
             android:fontFamily="@font/gangwon"
             android:text="프로필 편집"
             android:textSize="20sp"
+            android:textColor="@color/gray"
             app:layout_constraintEnd_toEndOf="@+id/ProfileImg"
             app:layout_constraintStart_toStartOf="@+id/ProfileImg"
             app:layout_constraintTop_toBottomOf="@+id/ProfileImg" />

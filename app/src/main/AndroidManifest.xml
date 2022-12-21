@@ -13,27 +13,35 @@
         android:theme="@style/Theme.Everylogg">
         <activity
             android:name=".activity.StudyWriteActivity"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+            android:exported="false">
+
         </activity>
         <activity android:name=".activity.StudyListActivity"
-            android:exported="false"/>
+            android:exported="false">
+
+        </activity>
         <activity android:name=".activity.MainActivity"
-            android:exported="false"/>
+            android:exported="false">
+
+        </activity>
         <activity android:name=".activity.LoginActivity"
             android:exported="false"/>
         <activity android:name=".activity.StudyShowActivity"
-            android:exported="false"/>
+            android:exported="false">
+
+        </activity>
         <activity android:name=".activity.SearchActivity"
             android:exported="false"/>
 
         <activity android:name=".activity.EditProfile"
             android:exported="false"/>
         <activity android:name=".activity.view_scene"
-            android:exported="false"/>
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity android:name=".activity.write_scene"
             android:exported="false"/>
 
